@@ -1,0 +1,11 @@
+{
+    "token" : "ODg5ODM3NjE5ODY3OTU5MzM2.YUnD3A.dBn4SrXf5qWc4Yc8LZ5x4avt3_4",
+    "prefix" : "=",
+    
+    "desabilitar_button_wl": false,
+
+    "conexaodb": "127.0.0.1",
+    "userdb": "root",
+    "senhadb": "",
+    "db": "vrpx"
+}
